@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  background-color: beige;
+}
+
+.select{
+  font-size: small;
+    color:black;
+    padding: 5px 19px;
+    border: 1px solid transparent;
+    border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+    cursor: pointer;
+}
+.text{
+  font-size: 13px;
+    font-style: italic;
+    font-weight: 400;
+    text-align: justify;
+    line-height: 1.8;
+}
+.box-container{
+  height: 250px;
+  padding: 3px 11px;
+}
+.header-text{
+  text-align: start;
+  font-size: 14px;
+  margin-top: -3px;
+  border: 0px solid;
+  color: black;
+  background-color: aliceblue;
+}
+
